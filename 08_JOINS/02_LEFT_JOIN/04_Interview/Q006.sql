@@ -27,4 +27,4 @@ GROUP BY
     C.CustomerName
 ORDER BY
     TotalCompletedAmount DESC,
-    C.CustomerName ASC;
+    C.CustomerName ASC;               
